@@ -23,6 +23,5 @@ def main():
         
     print(res)
 
-ㄴ
 if __name__ == "__main__":
     main()
